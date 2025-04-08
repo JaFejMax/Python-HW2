@@ -37,3 +37,4 @@ if subjekt:
      subjekt.zobrazit_udaje()
 
 
+
